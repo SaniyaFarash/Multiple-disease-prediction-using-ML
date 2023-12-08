@@ -12,3 +12,5 @@ Following libraries are used.
 ## Machine Learning Algorithms
 * Logistics regression
 * Support Vector Machine
+## Check out the google doc for how the interface looks like
+https://docs.google.com/document/d/1Ehnl8PyZyIYjvn7jrjCjvwsZqLH8rkN_jWY7F74l0Rg/edit
